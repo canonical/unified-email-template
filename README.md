@@ -9,4 +9,4 @@ This is the home of Canonicals HTML email templates. Which cater for:
 These emails are intended to be used by Marketo to populate the data. Examples can be found in the examples directory.
 
 ### Online examples
-You can view the email templates online: https://canonical-webteam.github.io/unified-email-template/examples/.
+You can view the email templates online: https://canonical-web-and-design.github.io/unified-email-template/examples/.
