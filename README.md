@@ -1,4 +1,6 @@
 # Unified email template
+[![CircleCI build status](https://circleci.com/gh/canonical-web-and-design/unified-email-template.svg?style=shield)](https://circleci.com/gh/canonical-web-and-design/unified-email-template) [![Code coverage](https://codecov.io/gh/canonical-web-and-design/unified-email-template/branch/master/graph/badge.svg)](https://codecov.io/gh/canonical-web-and-design/unified-email-template)
+
 This is the home of Canonicals HTML email templates. Which cater for:
 
 - Insights mailing list
